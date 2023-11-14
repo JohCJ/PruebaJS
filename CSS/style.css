@@ -1,0 +1,10 @@
+.container{
+    width: 40%;
+    background-color: gainsboro;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.container-fluid{
+    width: 70%;
+}
